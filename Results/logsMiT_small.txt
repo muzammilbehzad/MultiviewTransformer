@@ -1,0 +1,1006 @@
+/run/nvme/job_5635714/data
+
+=======>>> Experiment started for MiT_small_patch16_224 <<<=======
+
+[Thu Apr 22 08:48:49 2021] Epoch: 0, Averaged stats: wRA0: 0.2301 (0.3220)  wRA20: 0.4250 (0.3386)  wRA_20: 0.3413 (0.3394)
+* Acc@1 32.954 Acc@2 49.051 loss 1.7
+Accuracy of the network on the test images: 33.0%
+Max accuracy: 32.95%
+
+[Thu Apr 22 08:55:47 2021] Epoch: 1, Averaged stats: wRA0: 0.2234 (0.3113)  wRA20: 0.4334 (0.3397)  wRA_20: 0.3405 (0.3490)
+* Acc@1 33.428 Acc@2 56.321 loss 1.5238
+Accuracy of the network on the test images: 33.4%
+Max accuracy: 33.43%
+
+[Thu Apr 22 09:03:05 2021] Epoch: 2, Averaged stats: wRA0: 0.3079 (0.3117)  wRA20: 0.3679 (0.3400)  wRA_20: 0.3273 (0.3483)
+* Acc@1 33.068 Acc@2 61.921 loss 1.4536
+Accuracy of the network on the test images: 33.1%
+Max accuracy: 33.43%
+
+[Thu Apr 22 09:08:00 2021] Epoch: 3, Averaged stats: wRA0: 0.3252 (0.3204)  wRA20: 0.3659 (0.3354)  wRA_20: 0.3040 (0.3442)
+* Acc@1 34.263 Acc@2 65.262 loss 1.3498
+Accuracy of the network on the test images: 34.3%
+Max accuracy: 34.26%
+
+[Thu Apr 22 09:13:42 2021] Epoch: 4, Averaged stats: wRA0: 0.3453 (0.3259)  wRA20: 0.3669 (0.3334)  wRA_20: 0.2920 (0.3407)
+* Acc@1 36.105 Acc@2 66.230 loss 1.3174
+Accuracy of the network on the test images: 36.1%
+Max accuracy: 36.10%
+
+[Thu Apr 22 09:20:47 2021] Epoch: 5, Averaged stats: wRA0: 0.3452 (0.3342)  wRA20: 0.3990 (0.3380)  wRA_20: 0.2568 (0.3279)
+* Acc@1 42.369 Acc@2 62.946 loss 1.2666
+Accuracy of the network on the test images: 42.4%
+Max accuracy: 42.37%
+
+[Thu Apr 22 09:25:53 2021] Epoch: 6, Averaged stats: wRA0: 0.3502 (0.3259)  wRA20: 0.3927 (0.3190)  wRA_20: 0.2489 (0.3551)
+* Acc@1 38.250 Acc@2 67.179 loss 1.2518
+Accuracy of the network on the test images: 38.2%
+Max accuracy: 42.37%
+
+[Thu Apr 22 09:30:31 2021] Epoch: 7, Averaged stats: wRA0: 0.3446 (0.3322)  wRA20: 0.3964 (0.3250)  wRA_20: 0.2552 (0.3428)
+* Acc@1 42.350 Acc@2 67.635 loss 1.2284
+Accuracy of the network on the test images: 42.4%
+Max accuracy: 42.37%
+
+[Thu Apr 22 09:35:01 2021] Epoch: 8, Averaged stats: wRA0: 0.3530 (0.3379)  wRA20: 0.3966 (0.3246)  wRA_20: 0.2427 (0.3374)
+* Acc@1 43.508 Acc@2 67.995 loss 1.2202
+Accuracy of the network on the test images: 43.5%
+Max accuracy: 43.51%
+
+[Thu Apr 22 09:39:17 2021] Epoch: 9, Averaged stats: wRA0: 0.3489 (0.3429)  wRA20: 0.4015 (0.3262)  wRA_20: 0.2525 (0.3309)
+* Acc@1 49.013 Acc@2 63.781 loss 1.2058
+Accuracy of the network on the test images: 49.0%
+Max accuracy: 49.01%
+
+[Thu Apr 22 09:43:09 2021] Epoch: 10, Averaged stats: wRA0: 0.3492 (0.3336)  wRA20: 0.3996 (0.3185)  wRA_20: 0.2490 (0.3480)
+* Acc@1 48.462 Acc@2 67.445 loss 1.2018
+Accuracy of the network on the test images: 48.5%
+Max accuracy: 49.01%
+
+[Thu Apr 22 09:47:30 2021] Epoch: 11, Averaged stats: wRA0: 0.3479 (0.3307)  wRA20: 0.3986 (0.3107)  wRA_20: 0.2476 (0.3586)
+* Acc@1 49.089 Acc@2 67.217 loss 1.1896
+Accuracy of the network on the test images: 49.1%
+Max accuracy: 49.09%
+
+[Thu Apr 22 09:51:46 2021] Epoch: 12, Averaged stats: wRA0: 0.3531 (0.3322)  wRA20: 0.3990 (0.3152)  wRA_20: 0.2490 (0.3526)
+* Acc@1 49.089 Acc@2 67.350 loss 1.183
+Accuracy of the network on the test images: 49.1%
+Max accuracy: 49.09%
+
+[Thu Apr 22 09:55:30 2021] Epoch: 13, Averaged stats: wRA0: 0.3477 (0.3327)  wRA20: 0.3987 (0.3137)  wRA_20: 0.2492 (0.3536)
+* Acc@1 49.298 Acc@2 67.559 loss 1.17
+Accuracy of the network on the test images: 49.3%
+Max accuracy: 49.30%
+
+[Thu Apr 22 09:59:58 2021] Epoch: 14, Averaged stats: wRA0: 0.3510 (0.3377)  wRA20: 0.3997 (0.3125)  wRA_20: 0.2460 (0.3498)
+* Acc@1 49.468 Acc@2 67.692 loss 1.1644
+Accuracy of the network on the test images: 49.5%
+Max accuracy: 49.47%
+
+[Thu Apr 22 10:03:58 2021] Epoch: 15, Averaged stats: wRA0: 0.3504 (0.3332)  wRA20: 0.4039 (0.3128)  wRA_20: 0.2478 (0.3540)
+* Acc@1 49.772 Acc@2 67.483 loss 1.1536
+Accuracy of the network on the test images: 49.8%
+Max accuracy: 49.77%
+
+[Thu Apr 22 10:07:55 2021] Epoch: 16, Averaged stats: wRA0: 0.3493 (0.3353)  wRA20: 0.3941 (0.3130)  wRA_20: 0.2516 (0.3517)
+* Acc@1 49.563 Acc@2 69.039 loss 1.1458
+Accuracy of the network on the test images: 49.6%
+Max accuracy: 49.77%
+
+[Thu Apr 22 10:12:09 2021] Epoch: 17, Averaged stats: wRA0: 0.3522 (0.3376)  wRA20: 0.4022 (0.3102)  wRA_20: 0.2451 (0.3522)
+* Acc@1 50.588 Acc@2 67.198 loss 1.132
+Accuracy of the network on the test images: 50.6%
+Max accuracy: 50.59%
+
+[Thu Apr 22 10:16:05 2021] Epoch: 18, Averaged stats: wRA0: 0.3523 (0.3364)  wRA20: 0.4027 (0.3095)  wRA_20: 0.2456 (0.3542)
+* Acc@1 49.905 Acc@2 67.331 loss 1.1274
+Accuracy of the network on the test images: 49.9%
+Max accuracy: 50.59%
+
+[Thu Apr 22 10:20:25 2021] Epoch: 19, Averaged stats: wRA0: 0.3529 (0.3354)  wRA20: 0.4039 (0.3080)  wRA_20: 0.2419 (0.3566)
+* Acc@1 50.000 Acc@2 68.641 loss 1.1128
+Accuracy of the network on the test images: 50.0%
+Max accuracy: 50.59%
+
+[Thu Apr 22 10:24:47 2021] Epoch: 20, Averaged stats: wRA0: 0.3532 (0.3376)  wRA20: 0.4003 (0.3080)  wRA_20: 0.2449 (0.3544)
+* Acc@1 50.664 Acc@2 68.622 loss 1.1058
+Accuracy of the network on the test images: 50.7%
+Max accuracy: 50.66%
+
+[Thu Apr 22 10:28:59 2021] Epoch: 21, Averaged stats: wRA0: 0.3563 (0.3365)  wRA20: 0.3984 (0.3082)  wRA_20: 0.2475 (0.3553)
+* Acc@1 50.285 Acc@2 67.806 loss 1.0906
+Accuracy of the network on the test images: 50.3%
+Max accuracy: 50.66%
+
+[Thu Apr 22 10:33:42 2021] Epoch: 22, Averaged stats: wRA0: 0.3536 (0.3390)  wRA20: 0.4029 (0.3072)  wRA_20: 0.2381 (0.3539)
+* Acc@1 50.740 Acc@2 70.406 loss 1.0784
+Accuracy of the network on the test images: 50.7%
+Max accuracy: 50.74%
+
+[Thu Apr 22 10:38:05 2021] Epoch: 23, Averaged stats: wRA0: 0.3559 (0.3396)  wRA20: 0.4007 (0.3054)  wRA_20: 0.2428 (0.3550)
+* Acc@1 51.215 Acc@2 68.736 loss 1.0608
+Accuracy of the network on the test images: 51.2%
+Max accuracy: 51.21%
+
+[Thu Apr 22 10:42:29 2021] Epoch: 24, Averaged stats: wRA0: 0.3521 (0.3375)  wRA20: 0.4047 (0.3058)  wRA_20: 0.2414 (0.3567)
+* Acc@1 50.664 Acc@2 70.311 loss 1.0524
+Accuracy of the network on the test images: 50.7%
+Max accuracy: 51.21%
+
+[Thu Apr 22 10:47:07 2021] Epoch: 25, Averaged stats: wRA0: 0.3530 (0.3380)  wRA20: 0.4020 (0.3028)  wRA_20: 0.2440 (0.3592)
+* Acc@1 50.664 Acc@2 70.444 loss 1.025
+Accuracy of the network on the test images: 50.7%
+Max accuracy: 51.21%
+
+[Thu Apr 22 10:51:00 2021] Epoch: 26, Averaged stats: wRA0: 0.3532 (0.3368)  wRA20: 0.4043 (0.3050)  wRA_20: 0.2464 (0.3583)
+* Acc@1 50.873 Acc@2 72.741 loss 1.013
+Accuracy of the network on the test images: 50.9%
+Max accuracy: 51.21%
+
+[Thu Apr 22 10:56:20 2021] Epoch: 27, Averaged stats: wRA0: 0.3522 (0.3339)  wRA20: 0.4075 (0.2997)  wRA_20: 0.2406 (0.3664)
+* Acc@1 51.424 Acc@2 72.361 loss 0.9838
+Accuracy of the network on the test images: 51.4%
+Max accuracy: 51.42%
+
+[Thu Apr 22 11:02:36 2021] Epoch: 28, Averaged stats: wRA0: 0.3550 (0.3400)  wRA20: 0.4019 (0.2972)  wRA_20: 0.2431 (0.3628)
+* Acc@1 52.240 Acc@2 73.614 loss 0.9724
+Accuracy of the network on the test images: 52.2%
+Max accuracy: 52.24%
+
+[Thu Apr 22 11:09:41 2021] Epoch: 29, Averaged stats: wRA0: 0.3540 (0.3364)  wRA20: 0.4049 (0.2993)  wRA_20: 0.2447 (0.3643)
+* Acc@1 51.651 Acc@2 72.191 loss 0.9466
+Accuracy of the network on the test images: 51.7%
+Max accuracy: 52.24%
+
+[Thu Apr 22 11:13:33 2021] Epoch: 30, Averaged stats: wRA0: 0.3571 (0.3379)  wRA20: 0.3984 (0.3015)  wRA_20: 0.2390 (0.3606)
+* Acc@1 51.196 Acc@2 74.658 loss 0.9332
+Accuracy of the network on the test images: 51.2%
+Max accuracy: 52.24%
+
+[Thu Apr 22 11:18:58 2021] Epoch: 31, Averaged stats: wRA0: 0.3531 (0.3360)  wRA20: 0.4054 (0.2954)  wRA_20: 0.2396 (0.3686)
+* Acc@1 52.828 Acc@2 75.494 loss 0.9034
+Accuracy of the network on the test images: 52.8%
+Max accuracy: 52.83%
+
+[Thu Apr 22 11:23:17 2021] Epoch: 32, Averaged stats: wRA0: 0.3541 (0.3358)  wRA20: 0.4028 (0.2965)  wRA_20: 0.2445 (0.3677)
+* Acc@1 54.366 Acc@2 76.936 loss 0.8884
+Accuracy of the network on the test images: 54.4%
+Max accuracy: 54.37%
+
+[Thu Apr 22 11:28:04 2021] Epoch: 33, Averaged stats: wRA0: 0.3592 (0.3376)  wRA20: 0.3987 (0.2955)  wRA_20: 0.2393 (0.3669)
+* Acc@1 55.011 Acc@2 76.860 loss 0.8504
+Accuracy of the network on the test images: 55.0%
+Max accuracy: 55.01%
+
+[Thu Apr 22 11:33:17 2021] Epoch: 34, Averaged stats: wRA0: 0.3495 (0.3395)  wRA20: 0.4058 (0.2958)  wRA_20: 0.2434 (0.3648)
+* Acc@1 52.468 Acc@2 75.095 loss 0.8368
+Accuracy of the network on the test images: 52.5%
+Max accuracy: 55.01%
+
+[Thu Apr 22 11:38:43 2021] Epoch: 35, Averaged stats: wRA0: 0.3514 (0.3363)  wRA20: 0.4050 (0.2871)  wRA_20: 0.2375 (0.3766)
+* Acc@1 58.125 Acc@2 80.733 loss 0.8122
+Accuracy of the network on the test images: 58.1%
+Max accuracy: 58.12%
+
+[Thu Apr 22 11:44:10 2021] Epoch: 36, Averaged stats: wRA0: 0.3583 (0.3366)  wRA20: 0.4037 (0.2939)  wRA_20: 0.2363 (0.3695)
+* Acc@1 56.226 Acc@2 78.797 loss 0.7982
+Accuracy of the network on the test images: 56.2%
+Max accuracy: 58.12%
+
+[Thu Apr 22 11:48:26 2021] Epoch: 37, Averaged stats: wRA0: 0.3587 (0.3382)  wRA20: 0.4003 (0.2908)  wRA_20: 0.2399 (0.3710)
+* Acc@1 57.118 Acc@2 79.689 loss 0.7672
+Accuracy of the network on the test images: 57.1%
+Max accuracy: 58.12%
+
+[Thu Apr 22 11:53:00 2021] Epoch: 38, Averaged stats: wRA0: 0.3575 (0.3382)  wRA20: 0.4044 (0.2921)  wRA_20: 0.2366 (0.3697)
+* Acc@1 56.739 Acc@2 79.803 loss 0.7458
+Accuracy of the network on the test images: 56.7%
+Max accuracy: 58.12%
+
+[Thu Apr 22 11:58:45 2021] Epoch: 39, Averaged stats: wRA0: 0.3565 (0.3335)  wRA20: 0.4048 (0.2894)  wRA_20: 0.2362 (0.3771)
+* Acc@1 60.421 Acc@2 83.960 loss 0.7098
+Accuracy of the network on the test images: 60.4%
+Max accuracy: 60.42%
+
+[Thu Apr 22 12:04:06 2021] Epoch: 40, Averaged stats: wRA0: 0.3537 (0.3353)  wRA20: 0.4058 (0.2884)  wRA_20: 0.2393 (0.3762)
+* Acc@1 61.143 Acc@2 84.510 loss 0.696
+Accuracy of the network on the test images: 61.1%
+Max accuracy: 61.14%
+
+[Thu Apr 22 12:08:49 2021] Epoch: 41, Averaged stats: wRA0: 0.3517 (0.3398)  wRA20: 0.4034 (0.2916)  wRA_20: 0.2452 (0.3686)
+* Acc@1 61.314 Acc@2 83.238 loss 0.6702
+Accuracy of the network on the test images: 61.3%
+Max accuracy: 61.31%
+
+[Thu Apr 22 12:14:13 2021] Epoch: 42, Averaged stats: wRA0: 0.3531 (0.3397)  wRA20: 0.4050 (0.2865)  wRA_20: 0.2422 (0.3737)
+* Acc@1 63.155 Acc@2 85.402 loss 0.6566
+Accuracy of the network on the test images: 63.2%
+Max accuracy: 63.15%
+
+[Thu Apr 22 12:19:00 2021] Epoch: 43, Averaged stats: wRA0: 0.3537 (0.3386)  wRA20: 0.4052 (0.2884)  wRA_20: 0.2407 (0.3730)
+* Acc@1 63.781 Acc@2 85.668 loss 0.6272
+Accuracy of the network on the test images: 63.8%
+Max accuracy: 63.78%
+
+[Thu Apr 22 12:23:59 2021] Epoch: 44, Averaged stats: wRA0: 0.3572 (0.3337)  wRA20: 0.4026 (0.2886)  wRA_20: 0.2397 (0.3776)
+* Acc@1 64.351 Acc@2 87.244 loss 0.6112
+Accuracy of the network on the test images: 64.4%
+Max accuracy: 64.35%
+
+[Thu Apr 22 12:28:09 2021] Epoch: 45, Averaged stats: wRA0: 0.3562 (0.3365)  wRA20: 0.4046 (0.2872)  wRA_20: 0.2384 (0.3763)
+* Acc@1 66.173 Acc@2 88.326 loss 0.5786
+Accuracy of the network on the test images: 66.2%
+Max accuracy: 66.17%
+
+[Thu Apr 22 12:34:05 2021] Epoch: 46, Averaged stats: wRA0: 0.3587 (0.3419)  wRA20: 0.4025 (0.2874)  wRA_20: 0.2396 (0.3707)
+* Acc@1 65.945 Acc@2 87.301 loss 0.562
+Accuracy of the network on the test images: 65.9%
+Max accuracy: 66.17%
+
+[Thu Apr 22 12:40:03 2021] Epoch: 47, Averaged stats: wRA0: 0.3573 (0.3427)  wRA20: 0.4044 (0.2897)  wRA_20: 0.2407 (0.3675)
+* Acc@1 68.185 Acc@2 88.667 loss 0.5294
+Accuracy of the network on the test images: 68.2%
+Max accuracy: 68.19%
+
+[Thu Apr 22 12:47:08 2021] Epoch: 48, Averaged stats: wRA0: 0.3565 (0.3418)  wRA20: 0.4048 (0.2897)  wRA_20: 0.2392 (0.3685)
+* Acc@1 69.780 Acc@2 90.053 loss 0.5182
+Accuracy of the network on the test images: 69.8%
+Max accuracy: 69.78%
+
+[Thu Apr 22 12:53:34 2021] Epoch: 49, Averaged stats: wRA0: 0.3525 (0.3441)  wRA20: 0.4071 (0.2891)  wRA_20: 0.2396 (0.3668)
+* Acc@1 69.362 Acc@2 89.977 loss 0.5016
+Accuracy of the network on the test images: 69.4%
+Max accuracy: 69.78%
+
+[Thu Apr 22 12:58:52 2021] Epoch: 50, Averaged stats: wRA0: 0.3589 (0.3457)  wRA20: 0.4027 (0.2868)  wRA_20: 0.2380 (0.3674)
+* Acc@1 70.558 Acc@2 90.718 loss 0.491
+Accuracy of the network on the test images: 70.6%
+Max accuracy: 70.56%
+
+[Thu Apr 22 13:04:44 2021] Epoch: 51, Averaged stats: wRA0: 0.3564 (0.3412)  wRA20: 0.4041 (0.2872)  wRA_20: 0.2417 (0.3715)
+* Acc@1 72.760 Acc@2 91.743 loss 0.4672
+Accuracy of the network on the test images: 72.8%
+Max accuracy: 72.76%
+
+[Thu Apr 22 13:10:35 2021] Epoch: 52, Averaged stats: wRA0: 0.3544 (0.3408)  wRA20: 0.4029 (0.2885)  wRA_20: 0.2376 (0.3708)
+* Acc@1 74.013 Acc@2 92.445 loss 0.454
+Accuracy of the network on the test images: 74.0%
+Max accuracy: 74.01%
+
+[Thu Apr 22 13:15:17 2021] Epoch: 53, Averaged stats: wRA0: 0.3573 (0.3433)  wRA20: 0.4041 (0.2894)  wRA_20: 0.2407 (0.3673)
+* Acc@1 74.260 Acc@2 92.369 loss 0.4332
+Accuracy of the network on the test images: 74.3%
+Max accuracy: 74.26%
+
+[Thu Apr 22 13:20:41 2021] Epoch: 54, Averaged stats: wRA0: 0.3543 (0.3447)  wRA20: 0.4072 (0.2883)  wRA_20: 0.2411 (0.3670)
+* Acc@1 73.045 Acc@2 92.255 loss 0.4256
+Accuracy of the network on the test images: 73.0%
+Max accuracy: 74.26%
+
+[Thu Apr 22 13:25:57 2021] Epoch: 55, Averaged stats: wRA0: 0.3569 (0.3440)  wRA20: 0.4035 (0.2887)  wRA_20: 0.2360 (0.3673)
+* Acc@1 75.607 Acc@2 93.584 loss 0.4054
+Accuracy of the network on the test images: 75.6%
+Max accuracy: 75.61%
+
+[Thu Apr 22 13:30:33 2021] Epoch: 56, Averaged stats: wRA0: 0.3588 (0.3434)  wRA20: 0.4037 (0.2880)  wRA_20: 0.2355 (0.3686)
+* Acc@1 76.803 Acc@2 93.717 loss 0.3954
+Accuracy of the network on the test images: 76.8%
+Max accuracy: 76.80%
+
+[Thu Apr 22 13:35:16 2021] Epoch: 57, Averaged stats: wRA0: 0.3564 (0.3442)  wRA20: 0.4053 (0.2879)  wRA_20: 0.2382 (0.3679)
+* Acc@1 77.354 Acc@2 94.172 loss 0.3744
+Accuracy of the network on the test images: 77.4%
+Max accuracy: 77.35%
+
+[Thu Apr 22 13:40:31 2021] Epoch: 58, Averaged stats: wRA0: 0.3565 (0.3438)  wRA20: 0.4079 (0.2884)  wRA_20: 0.2350 (0.3678)
+* Acc@1 79.233 Acc@2 94.818 loss 0.3662
+Accuracy of the network on the test images: 79.2%
+Max accuracy: 79.23%
+
+[Thu Apr 22 13:44:22 2021] Epoch: 59, Averaged stats: wRA0: 0.3538 (0.3433)  wRA20: 0.4054 (0.2880)  wRA_20: 0.2404 (0.3687)
+* Acc@1 80.239 Acc@2 95.140 loss 0.3544
+Accuracy of the network on the test images: 80.2%
+Max accuracy: 80.24%
+
+[Thu Apr 22 13:48:19 2021] Epoch: 60, Averaged stats: wRA0: 0.3530 (0.3467)  wRA20: 0.4064 (0.2874)  wRA_20: 0.2382 (0.3659)
+* Acc@1 82.213 Acc@2 95.672 loss 0.3462
+Accuracy of the network on the test images: 82.2%
+Max accuracy: 82.21%
+
+[Thu Apr 22 13:52:48 2021] Epoch: 61, Averaged stats: wRA0: 0.3561 (0.3466)  wRA20: 0.4067 (0.2940)  wRA_20: 0.2378 (0.3594)
+* Acc@1 82.270 Acc@2 95.596 loss 0.332
+Accuracy of the network on the test images: 82.3%
+Max accuracy: 82.27%
+
+[Thu Apr 22 13:56:09 2021] Epoch: 62, Averaged stats: wRA0: 0.3542 (0.3487)  wRA20: 0.4043 (0.2939)  wRA_20: 0.2366 (0.3574)
+* Acc@1 81.473 Acc@2 95.710 loss 0.3244
+Accuracy of the network on the test images: 81.5%
+Max accuracy: 82.27%
+
+[Thu Apr 22 13:59:17 2021] Epoch: 63, Averaged stats: wRA0: 0.3534 (0.3476)  wRA20: 0.4048 (0.2944)  wRA_20: 0.2401 (0.3580)
+* Acc@1 82.194 Acc@2 96.203 loss 0.3112
+Accuracy of the network on the test images: 82.2%
+Max accuracy: 82.27%
+
+[Thu Apr 22 14:02:39 2021] Epoch: 64, Averaged stats: wRA0: 0.3562 (0.3484)  wRA20: 0.4064 (0.2921)  wRA_20: 0.2372 (0.3595)
+* Acc@1 84.074 Acc@2 96.906 loss 0.3048
+Accuracy of the network on the test images: 84.1%
+Max accuracy: 84.07%
+
+[Thu Apr 22 14:06:26 2021] Epoch: 65, Averaged stats: wRA0: 0.3574 (0.3501)  wRA20: 0.4071 (0.2941)  wRA_20: 0.2349 (0.3558)
+* Acc@1 85.023 Acc@2 97.077 loss 0.2938
+Accuracy of the network on the test images: 85.0%
+Max accuracy: 85.02%
+
+[Thu Apr 22 14:09:48 2021] Epoch: 66, Averaged stats: wRA0: 0.3578 (0.3510)  wRA20: 0.4024 (0.2949)  wRA_20: 0.2384 (0.3542)
+* Acc@1 85.175 Acc@2 97.115 loss 0.288
+Accuracy of the network on the test images: 85.2%
+Max accuracy: 85.17%
+
+[Thu Apr 22 14:13:10 2021] Epoch: 67, Averaged stats: wRA0: 0.3605 (0.3517)  wRA20: 0.4044 (0.2967)  wRA_20: 0.2380 (0.3516)
+* Acc@1 85.061 Acc@2 96.925 loss 0.2784
+Accuracy of the network on the test images: 85.1%
+Max accuracy: 85.17%
+
+[Thu Apr 22 14:16:58 2021] Epoch: 68, Averaged stats: wRA0: 0.3564 (0.3519)  wRA20: 0.4054 (0.2969)  wRA_20: 0.2377 (0.3512)
+* Acc@1 86.390 Acc@2 97.437 loss 0.273
+Accuracy of the network on the test images: 86.4%
+Max accuracy: 86.39%
+
+[Thu Apr 22 14:20:19 2021] Epoch: 69, Averaged stats: wRA0: 0.3587 (0.3510)  wRA20: 0.4035 (0.2961)  wRA_20: 0.2409 (0.3528)
+* Acc@1 87.718 Acc@2 97.722 loss 0.2632
+Accuracy of the network on the test images: 87.7%
+Max accuracy: 87.72%
+
+[Thu Apr 22 14:23:35 2021] Epoch: 70, Averaged stats: wRA0: 0.3548 (0.3500)  wRA20: 0.4072 (0.2965)  wRA_20: 0.2382 (0.3536)
+* Acc@1 89.351 Acc@2 98.235 loss 0.258
+Accuracy of the network on the test images: 89.4%
+Max accuracy: 89.35%
+
+[Thu Apr 22 14:26:47 2021] Epoch: 71, Averaged stats: wRA0: 0.3555 (0.3485)  wRA20: 0.4059 (0.3018)  wRA_20: 0.2375 (0.3498)
+* Acc@1 89.636 Acc@2 98.178 loss 0.2488
+Accuracy of the network on the test images: 89.6%
+Max accuracy: 89.64%
+
+[Thu Apr 22 14:29:48 2021] Epoch: 72, Averaged stats: wRA0: 0.3574 (0.3506)  wRA20: 0.4035 (0.2992)  wRA_20: 0.2371 (0.3502)
+* Acc@1 89.655 Acc@2 98.178 loss 0.2456
+Accuracy of the network on the test images: 89.7%
+Max accuracy: 89.65%
+
+[Thu Apr 22 14:32:44 2021] Epoch: 73, Averaged stats: wRA0: 0.3559 (0.3518)  wRA20: 0.4069 (0.2990)  wRA_20: 0.2356 (0.3492)
+* Acc@1 90.129 Acc@2 98.349 loss 0.2388
+Accuracy of the network on the test images: 90.1%
+Max accuracy: 90.13%
+
+[Thu Apr 22 14:35:43 2021] Epoch: 74, Averaged stats: wRA0: 0.3575 (0.3534)  wRA20: 0.4090 (0.2972)  wRA_20: 0.2333 (0.3494)
+* Acc@1 89.768 Acc@2 98.424 loss 0.2366
+Accuracy of the network on the test images: 89.8%
+Max accuracy: 90.13%
+
+[Thu Apr 22 14:39:10 2021] Epoch: 75, Averaged stats: wRA0: 0.3567 (0.3547)  wRA20: 0.4018 (0.3005)  wRA_20: 0.2386 (0.3448)
+* Acc@1 90.509 Acc@2 98.557 loss 0.2288
+Accuracy of the network on the test images: 90.5%
+Max accuracy: 90.51%
+
+[Thu Apr 22 14:42:22 2021] Epoch: 76, Averaged stats: wRA0: 0.3576 (0.3555)  wRA20: 0.4043 (0.3002)  wRA_20: 0.2383 (0.3443)
+* Acc@1 91.344 Acc@2 98.728 loss 0.2254
+Accuracy of the network on the test images: 91.3%
+Max accuracy: 91.34%
+
+[Thu Apr 22 14:45:20 2021] Epoch: 77, Averaged stats: wRA0: 0.3552 (0.3558)  wRA20: 0.4065 (0.3036)  wRA_20: 0.2371 (0.3407)
+* Acc@1 91.819 Acc@2 98.823 loss 0.2172
+Accuracy of the network on the test images: 91.8%
+Max accuracy: 91.82%
+
+[Thu Apr 22 14:48:22 2021] Epoch: 78, Averaged stats: wRA0: 0.3554 (0.3506)  wRA20: 0.4025 (0.3021)  wRA_20: 0.2382 (0.3474)
+* Acc@1 92.806 Acc@2 98.994 loss 0.2146
+Accuracy of the network on the test images: 92.8%
+Max accuracy: 92.81%
+
+[Thu Apr 22 14:51:29 2021] Epoch: 79, Averaged stats: wRA0: 0.3546 (0.3539)  wRA20: 0.4052 (0.3035)  wRA_20: 0.2385 (0.3426)
+* Acc@1 92.673 Acc@2 98.899 loss 0.209
+Accuracy of the network on the test images: 92.7%
+Max accuracy: 92.81%
+
+[Thu Apr 22 14:54:31 2021] Epoch: 80, Averaged stats: wRA0: 0.3569 (0.3517)  wRA20: 0.4034 (0.3073)  wRA_20: 0.2379 (0.3410)
+* Acc@1 93.337 Acc@2 98.918 loss 0.2064
+Accuracy of the network on the test images: 93.3%
+Max accuracy: 93.34%
+
+[Thu Apr 22 14:57:30 2021] Epoch: 81, Averaged stats: wRA0: 0.3573 (0.3527)  wRA20: 0.4040 (0.3094)  wRA_20: 0.2339 (0.3379)
+* Acc@1 93.546 Acc@2 98.975 loss 0.2014
+Accuracy of the network on the test images: 93.5%
+Max accuracy: 93.55%
+
+[Thu Apr 22 15:00:27 2021] Epoch: 82, Averaged stats: wRA0: 0.3554 (0.3549)  wRA20: 0.4064 (0.3066)  wRA_20: 0.2363 (0.3384)
+* Acc@1 93.166 Acc@2 98.918 loss 0.2004
+Accuracy of the network on the test images: 93.2%
+Max accuracy: 93.55%
+
+[Thu Apr 22 15:03:30 2021] Epoch: 83, Averaged stats: wRA0: 0.3573 (0.3554)  wRA20: 0.4040 (0.3055)  wRA_20: 0.2347 (0.3391)
+* Acc@1 93.603 Acc@2 99.089 loss 0.1972
+Accuracy of the network on the test images: 93.6%
+Max accuracy: 93.60%
+
+[Thu Apr 22 15:06:28 2021] Epoch: 84, Averaged stats: wRA0: 0.3584 (0.3541)  wRA20: 0.4069 (0.3067)  wRA_20: 0.2345 (0.3391)
+* Acc@1 94.381 Acc@2 99.165 loss 0.196
+Accuracy of the network on the test images: 94.4%
+Max accuracy: 94.38%
+
+[Thu Apr 22 15:10:47 2021] Epoch: 85, Averaged stats: wRA0: 0.3549 (0.3534)  wRA20: 0.4079 (0.3090)  wRA_20: 0.2364 (0.3376)
+* Acc@1 95.216 Acc@2 99.298 loss 0.1936
+Accuracy of the network on the test images: 95.2%
+Max accuracy: 95.22%
+
+[Thu Apr 22 15:14:28 2021] Epoch: 86, Averaged stats: wRA0: 0.3550 (0.3536)  wRA20: 0.4079 (0.3092)  wRA_20: 0.2334 (0.3371)
+* Acc@1 95.710 Acc@2 99.279 loss 0.1918
+Accuracy of the network on the test images: 95.7%
+Max accuracy: 95.71%
+
+[Thu Apr 22 15:19:33 2021] Epoch: 87, Averaged stats: wRA0: 0.3548 (0.3562)  wRA20: 0.4033 (0.3092)  wRA_20: 0.2357 (0.3346)
+* Acc@1 95.159 Acc@2 99.298 loss 0.1882
+Accuracy of the network on the test images: 95.2%
+Max accuracy: 95.71%
+
+[Thu Apr 22 15:23:47 2021] Epoch: 88, Averaged stats: wRA0: 0.3579 (0.3592)  wRA20: 0.4027 (0.3109)  wRA_20: 0.2363 (0.3299)
+* Acc@1 95.634 Acc@2 99.336 loss 0.1872
+Accuracy of the network on the test images: 95.6%
+Max accuracy: 95.71%
+
+[Thu Apr 22 15:27:37 2021] Epoch: 89, Averaged stats: wRA0: 0.3547 (0.3562)  wRA20: 0.4042 (0.3137)  wRA_20: 0.2382 (0.3301)
+* Acc@1 95.501 Acc@2 99.317 loss 0.1838
+Accuracy of the network on the test images: 95.5%
+Max accuracy: 95.71%
+
+[Thu Apr 22 15:31:51 2021] Epoch: 90, Averaged stats: wRA0: 0.3557 (0.3539)  wRA20: 0.4059 (0.3144)  wRA_20: 0.2375 (0.3317)
+* Acc@1 95.862 Acc@2 99.393 loss 0.1828
+Accuracy of the network on the test images: 95.9%
+Max accuracy: 95.86%
+
+[Thu Apr 22 15:36:24 2021] Epoch: 91, Averaged stats: wRA0: 0.3590 (0.3580)  wRA20: 0.4044 (0.3136)  wRA_20: 0.2341 (0.3283)
+* Acc@1 95.919 Acc@2 99.355 loss 0.1782
+Accuracy of the network on the test images: 95.9%
+Max accuracy: 95.92%
+
+[Thu Apr 22 15:40:41 2021] Epoch: 92, Averaged stats: wRA0: 0.3582 (0.3549)  wRA20: 0.4074 (0.3157)  wRA_20: 0.2335 (0.3294)
+* Acc@1 96.298 Acc@2 99.431 loss 0.1772
+Accuracy of the network on the test images: 96.3%
+Max accuracy: 96.30%
+
+[Thu Apr 22 15:43:55 2021] Epoch: 93, Averaged stats: wRA0: 0.3568 (0.3598)  wRA20: 0.4054 (0.3130)  wRA_20: 0.2356 (0.3271)
+* Acc@1 96.450 Acc@2 99.431 loss 0.1738
+Accuracy of the network on the test images: 96.5%
+Max accuracy: 96.45%
+
+[Thu Apr 22 15:47:10 2021] Epoch: 94, Averaged stats: wRA0: 0.3577 (0.3567)  wRA20: 0.4059 (0.3151)  wRA_20: 0.2352 (0.3282)
+* Acc@1 96.811 Acc@2 99.431 loss 0.1728
+Accuracy of the network on the test images: 96.8%
+Max accuracy: 96.81%
+
+[Thu Apr 22 15:50:07 2021] Epoch: 95, Averaged stats: wRA0: 0.3545 (0.3557)  wRA20: 0.4073 (0.3175)  wRA_20: 0.2356 (0.3268)
+* Acc@1 96.868 Acc@2 99.412 loss 0.1714
+Accuracy of the network on the test images: 96.9%
+Max accuracy: 96.87%
+
+[Thu Apr 22 15:53:31 2021] Epoch: 96, Averaged stats: wRA0: 0.3582 (0.3598)  wRA20: 0.4012 (0.3171)  wRA_20: 0.2350 (0.3230)
+* Acc@1 96.849 Acc@2 99.412 loss 0.171
+Accuracy of the network on the test images: 96.8%
+Max accuracy: 96.87%
+
+[Thu Apr 22 15:57:08 2021] Epoch: 97, Averaged stats: wRA0: 0.3550 (0.3542)  wRA20: 0.4066 (0.3193)  wRA_20: 0.2360 (0.3265)
+* Acc@1 97.191 Acc@2 99.431 loss 0.1708
+Accuracy of the network on the test images: 97.2%
+Max accuracy: 97.19%
+
+[Thu Apr 22 16:00:42 2021] Epoch: 98, Averaged stats: wRA0: 0.3550 (0.3543)  wRA20: 0.4023 (0.3202)  wRA_20: 0.2370 (0.3254)
+* Acc@1 97.115 Acc@2 99.450 loss 0.1698
+Accuracy of the network on the test images: 97.1%
+Max accuracy: 97.19%
+
+[Thu Apr 22 16:04:34 2021] Epoch: 99, Averaged stats: wRA0: 0.3574 (0.3535)  wRA20: 0.4074 (0.3189)  wRA_20: 0.2339 (0.3276)
+* Acc@1 97.153 Acc@2 99.450 loss 0.1666
+Accuracy of the network on the test images: 97.2%
+Max accuracy: 97.19%
+
+[Thu Apr 22 16:08:37 2021] Epoch: 100, Averaged stats: wRA0: 0.3553 (0.3539)  wRA20: 0.4050 (0.3197)  wRA_20: 0.2372 (0.3263)
+* Acc@1 97.304 Acc@2 99.506 loss 0.1654
+Accuracy of the network on the test images: 97.3%
+Max accuracy: 97.30%
+
+[Thu Apr 22 16:12:08 2021] Epoch: 101, Averaged stats: wRA0: 0.3567 (0.3558)  wRA20: 0.4038 (0.3209)  wRA_20: 0.2383 (0.3233)
+* Acc@1 97.494 Acc@2 99.525 loss 0.1624
+Accuracy of the network on the test images: 97.5%
+Max accuracy: 97.49%
+
+[Thu Apr 22 16:16:17 2021] Epoch: 102, Averaged stats: wRA0: 0.3568 (0.3549)  wRA20: 0.4057 (0.3224)  wRA_20: 0.2351 (0.3228)
+* Acc@1 97.475 Acc@2 99.506 loss 0.1616
+Accuracy of the network on the test images: 97.5%
+Max accuracy: 97.49%
+
+[Thu Apr 22 16:19:39 2021] Epoch: 103, Averaged stats: wRA0: 0.3566 (0.3585)  wRA20: 0.3993 (0.3221)  wRA_20: 0.2370 (0.3194)
+* Acc@1 97.760 Acc@2 99.525 loss 0.1618
+Accuracy of the network on the test images: 97.8%
+Max accuracy: 97.76%
+
+[Thu Apr 22 16:23:15 2021] Epoch: 104, Averaged stats: wRA0: 0.3588 (0.3584)  wRA20: 0.4048 (0.3222)  wRA_20: 0.2382 (0.3194)
+* Acc@1 97.760 Acc@2 99.525 loss 0.1614
+Accuracy of the network on the test images: 97.8%
+Max accuracy: 97.76%
+
+[Thu Apr 22 16:26:35 2021] Epoch: 105, Averaged stats: wRA0: 0.3581 (0.3586)  wRA20: 0.4037 (0.3216)  wRA_20: 0.2352 (0.3198)
+* Acc@1 98.007 Acc@2 99.563 loss 0.1612
+Accuracy of the network on the test images: 98.0%
+Max accuracy: 98.01%
+
+[Thu Apr 22 16:30:29 2021] Epoch: 106, Averaged stats: wRA0: 0.3580 (0.3578)  wRA20: 0.4047 (0.3222)  wRA_20: 0.2373 (0.3200)
+* Acc@1 98.026 Acc@2 99.601 loss 0.161
+Accuracy of the network on the test images: 98.0%
+Max accuracy: 98.03%
+
+[Thu Apr 22 16:34:22 2021] Epoch: 107, Averaged stats: wRA0: 0.3560 (0.3546)  wRA20: 0.4059 (0.3247)  wRA_20: 0.2370 (0.3207)
+* Acc@1 98.045 Acc@2 99.582 loss 0.16
+Accuracy of the network on the test images: 98.0%
+Max accuracy: 98.04%
+
+[Thu Apr 22 16:37:44 2021] Epoch: 108, Averaged stats: wRA0: 0.3562 (0.3573)  wRA20: 0.4049 (0.3262)  wRA_20: 0.2378 (0.3166)
+* Acc@1 98.121 Acc@2 99.563 loss 0.1586
+Accuracy of the network on the test images: 98.1%
+Max accuracy: 98.12%
+
+[Thu Apr 22 16:41:48 2021] Epoch: 109, Averaged stats: wRA0: 0.3562 (0.3550)  wRA20: 0.4079 (0.3272)  wRA_20: 0.2357 (0.3177)
+* Acc@1 98.178 Acc@2 99.544 loss 0.1572
+Accuracy of the network on the test images: 98.2%
+Max accuracy: 98.18%
+
+[Thu Apr 22 16:45:59 2021] Epoch: 110, Averaged stats: wRA0: 0.3575 (0.3549)  wRA20: 0.4047 (0.3272)  wRA_20: 0.2318 (0.3179)
+* Acc@1 98.311 Acc@2 99.601 loss 0.156
+Accuracy of the network on the test images: 98.3%
+Max accuracy: 98.31%
+
+[Thu Apr 22 16:49:44 2021] Epoch: 111, Averaged stats: wRA0: 0.3565 (0.3568)  wRA20: 0.4054 (0.3277)  wRA_20: 0.2354 (0.3155)
+* Acc@1 98.386 Acc@2 99.620 loss 0.1558
+Accuracy of the network on the test images: 98.4%
+Max accuracy: 98.39%
+
+[Thu Apr 22 16:53:56 2021] Epoch: 112, Averaged stats: wRA0: 0.3583 (0.3567)  wRA20: 0.4055 (0.3285)  wRA_20: 0.2387 (0.3148)
+* Acc@1 98.330 Acc@2 99.601 loss 0.1554
+Accuracy of the network on the test images: 98.3%
+Max accuracy: 98.39%
+
+[Thu Apr 22 16:59:04 2021] Epoch: 113, Averaged stats: wRA0: 0.3548 (0.3567)  wRA20: 0.4047 (0.3294)  wRA_20: 0.2379 (0.3139)
+* Acc@1 98.216 Acc@2 99.582 loss 0.155
+Accuracy of the network on the test images: 98.2%
+Max accuracy: 98.39%
+
+[Thu Apr 22 17:03:12 2021] Epoch: 114, Averaged stats: wRA0: 0.3557 (0.3575)  wRA20: 0.4048 (0.3304)  wRA_20: 0.2419 (0.3120)
+* Acc@1 98.405 Acc@2 99.620 loss 0.1542
+Accuracy of the network on the test images: 98.4%
+Max accuracy: 98.41%
+
+[Thu Apr 22 17:07:40 2021] Epoch: 115, Averaged stats: wRA0: 0.3589 (0.3562)  wRA20: 0.4036 (0.3303)  wRA_20: 0.2380 (0.3135)
+* Acc@1 98.576 Acc@2 99.658 loss 0.1544
+Accuracy of the network on the test images: 98.6%
+Max accuracy: 98.58%
+
+[Thu Apr 22 17:11:32 2021] Epoch: 116, Averaged stats: wRA0: 0.3569 (0.3560)  wRA20: 0.4042 (0.3292)  wRA_20: 0.2381 (0.3148)
+* Acc@1 98.633 Acc@2 99.620 loss 0.155
+Accuracy of the network on the test images: 98.6%
+Max accuracy: 98.63%
+
+[Thu Apr 22 17:15:24 2021] Epoch: 117, Averaged stats: wRA0: 0.3562 (0.3541)  wRA20: 0.4054 (0.3324)  wRA_20: 0.2382 (0.3136)
+* Acc@1 98.481 Acc@2 99.658 loss 0.1562
+Accuracy of the network on the test images: 98.5%
+Max accuracy: 98.63%
+
+[Thu Apr 22 17:18:50 2021] Epoch: 118, Averaged stats: wRA0: 0.3568 (0.3542)  wRA20: 0.4060 (0.3296)  wRA_20: 0.2363 (0.3162)
+* Acc@1 98.538 Acc@2 99.677 loss 0.1558
+Accuracy of the network on the test images: 98.5%
+Max accuracy: 98.63%
+
+[Thu Apr 22 17:22:12 2021] Epoch: 119, Averaged stats: wRA0: 0.3561 (0.3564)  wRA20: 0.4056 (0.3320)  wRA_20: 0.2380 (0.3116)
+* Acc@1 98.614 Acc@2 99.658 loss 0.1544
+Accuracy of the network on the test images: 98.6%
+Max accuracy: 98.63%
+
+[Thu Apr 22 17:25:58 2021] Epoch: 120, Averaged stats: wRA0: 0.3578 (0.3527)  wRA20: 0.4035 (0.3339)  wRA_20: 0.2353 (0.3134)
+* Acc@1 98.690 Acc@2 99.658 loss 0.153
+Accuracy of the network on the test images: 98.7%
+Max accuracy: 98.69%
+
+[Thu Apr 22 17:29:53 2021] Epoch: 121, Averaged stats: wRA0: 0.3584 (0.3526)  wRA20: 0.4040 (0.3355)  wRA_20: 0.2351 (0.3120)
+* Acc@1 98.633 Acc@2 99.677 loss 0.1516
+Accuracy of the network on the test images: 98.6%
+Max accuracy: 98.69%
+
+[Thu Apr 22 17:33:26 2021] Epoch: 122, Averaged stats: wRA0: 0.3574 (0.3524)  wRA20: 0.4052 (0.3337)  wRA_20: 0.2357 (0.3139)
+* Acc@1 98.633 Acc@2 99.639 loss 0.152
+Accuracy of the network on the test images: 98.6%
+Max accuracy: 98.69%
+
+[Thu Apr 22 17:36:42 2021] Epoch: 123, Averaged stats: wRA0: 0.3567 (0.3539)  wRA20: 0.4074 (0.3352)  wRA_20: 0.2345 (0.3109)
+* Acc@1 98.728 Acc@2 99.658 loss 0.153
+Accuracy of the network on the test images: 98.7%
+Max accuracy: 98.73%
+
+[Thu Apr 22 17:39:59 2021] Epoch: 124, Averaged stats: wRA0: 0.3574 (0.3554)  wRA20: 0.4065 (0.3362)  wRA_20: 0.2357 (0.3083)
+* Acc@1 98.804 Acc@2 99.639 loss 0.153
+Accuracy of the network on the test images: 98.8%
+Max accuracy: 98.80%
+
+[Thu Apr 22 17:43:03 2021] Epoch: 125, Averaged stats: wRA0: 0.3600 (0.3552)  wRA20: 0.4037 (0.3338)  wRA_20: 0.2354 (0.3110)
+* Acc@1 98.861 Acc@2 99.696 loss 0.153
+Accuracy of the network on the test images: 98.9%
+Max accuracy: 98.86%
+
+[Thu Apr 22 17:46:15 2021] Epoch: 126, Averaged stats: wRA0: 0.3586 (0.3569)  wRA20: 0.4052 (0.3359)  wRA_20: 0.2362 (0.3072)
+* Acc@1 98.937 Acc@2 99.696 loss 0.1528
+Accuracy of the network on the test images: 98.9%
+Max accuracy: 98.94%
+
+[Thu Apr 22 17:49:45 2021] Epoch: 127, Averaged stats: wRA0: 0.3572 (0.3530)  wRA20: 0.4049 (0.3367)  wRA_20: 0.2374 (0.3103)
+* Acc@1 98.861 Acc@2 99.696 loss 0.1516
+Accuracy of the network on the test images: 98.9%
+Max accuracy: 98.94%
+
+[Thu Apr 22 17:53:08 2021] Epoch: 128, Averaged stats: wRA0: 0.3579 (0.3534)  wRA20: 0.4057 (0.3373)  wRA_20: 0.2348 (0.3092)
+* Acc@1 98.918 Acc@2 99.696 loss 0.1508
+Accuracy of the network on the test images: 98.9%
+Max accuracy: 98.94%
+
+[Thu Apr 22 17:56:12 2021] Epoch: 129, Averaged stats: wRA0: 0.3555 (0.3532)  wRA20: 0.4060 (0.3374)  wRA_20: 0.2378 (0.3094)
+* Acc@1 98.785 Acc@2 99.696 loss 0.1512
+Accuracy of the network on the test images: 98.8%
+Max accuracy: 98.94%
+
+[Thu Apr 22 17:59:29 2021] Epoch: 130, Averaged stats: wRA0: 0.3565 (0.3544)  wRA20: 0.4038 (0.3363)  wRA_20: 0.2380 (0.3093)
+* Acc@1 98.861 Acc@2 99.715 loss 0.1514
+Accuracy of the network on the test images: 98.9%
+Max accuracy: 98.94%
+
+[Thu Apr 22 18:02:34 2021] Epoch: 131, Averaged stats: wRA0: 0.3547 (0.3564)  wRA20: 0.4068 (0.3370)  wRA_20: 0.2353 (0.3066)
+* Acc@1 98.994 Acc@2 99.753 loss 0.1526
+Accuracy of the network on the test images: 99.0%
+Max accuracy: 98.99%
+
+[Thu Apr 22 18:05:40 2021] Epoch: 132, Averaged stats: wRA0: 0.3578 (0.3550)  wRA20: 0.4038 (0.3357)  wRA_20: 0.2371 (0.3092)
+* Acc@1 98.975 Acc@2 99.753 loss 0.1522
+Accuracy of the network on the test images: 99.0%
+Max accuracy: 98.99%
+
+[Thu Apr 22 18:08:48 2021] Epoch: 133, Averaged stats: wRA0: 0.3559 (0.3562)  wRA20: 0.4056 (0.3377)  wRA_20: 0.2344 (0.3062)
+* Acc@1 98.937 Acc@2 99.734 loss 0.1512
+Accuracy of the network on the test images: 98.9%
+Max accuracy: 98.99%
+
+[Thu Apr 22 18:11:51 2021] Epoch: 134, Averaged stats: wRA0: 0.3562 (0.3519)  wRA20: 0.4058 (0.3373)  wRA_20: 0.2371 (0.3108)
+* Acc@1 99.013 Acc@2 99.734 loss 0.1504
+Accuracy of the network on the test images: 99.0%
+Max accuracy: 99.01%
+
+[Thu Apr 22 18:14:48 2021] Epoch: 135, Averaged stats: wRA0: 0.3581 (0.3543)  wRA20: 0.4054 (0.3375)  wRA_20: 0.2323 (0.3082)
+* Acc@1 98.956 Acc@2 99.753 loss 0.1492
+Accuracy of the network on the test images: 99.0%
+Max accuracy: 99.01%
+
+[Thu Apr 22 18:17:48 2021] Epoch: 136, Averaged stats: wRA0: 0.3568 (0.3548)  wRA20: 0.4038 (0.3388)  wRA_20: 0.2365 (0.3064)
+* Acc@1 99.070 Acc@2 99.734 loss 0.1492
+Accuracy of the network on the test images: 99.1%
+Max accuracy: 99.07%
+
+[Thu Apr 22 18:21:01 2021] Epoch: 137, Averaged stats: wRA0: 0.3590 (0.3539)  wRA20: 0.4046 (0.3404)  wRA_20: 0.2355 (0.3057)
+* Acc@1 98.956 Acc@2 99.753 loss 0.15
+Accuracy of the network on the test images: 99.0%
+Max accuracy: 99.07%
+
+[Thu Apr 22 18:24:19 2021] Epoch: 138, Averaged stats: wRA0: 0.3585 (0.3534)  wRA20: 0.4049 (0.3400)  wRA_20: 0.2355 (0.3066)
+* Acc@1 99.070 Acc@2 99.753 loss 0.15
+Accuracy of the network on the test images: 99.1%
+Max accuracy: 99.07%
+
+[Thu Apr 22 18:27:25 2021] Epoch: 139, Averaged stats: wRA0: 0.3569 (0.3529)  wRA20: 0.4020 (0.3403)  wRA_20: 0.2385 (0.3068)
+* Acc@1 99.203 Acc@2 99.753 loss 0.1502
+Accuracy of the network on the test images: 99.2%
+Max accuracy: 99.20%
+
+[Thu Apr 22 18:30:17 2021] Epoch: 140, Averaged stats: wRA0: 0.3577 (0.3506)  wRA20: 0.4055 (0.3415)  wRA_20: 0.2340 (0.3079)
+* Acc@1 99.089 Acc@2 99.734 loss 0.1506
+Accuracy of the network on the test images: 99.1%
+Max accuracy: 99.20%
+
+[Thu Apr 22 18:34:36 2021] Epoch: 141, Averaged stats: wRA0: 0.3575 (0.3531)  wRA20: 0.4054 (0.3407)  wRA_20: 0.2371 (0.3062)
+* Acc@1 99.184 Acc@2 99.753 loss 0.1512
+Accuracy of the network on the test images: 99.2%
+Max accuracy: 99.20%
+
+[Thu Apr 22 18:40:30 2021] Epoch: 142, Averaged stats: wRA0: 0.3580 (0.3520)  wRA20: 0.4049 (0.3382)  wRA_20: 0.2369 (0.3097)
+* Acc@1 99.222 Acc@2 99.734 loss 0.151
+Accuracy of the network on the test images: 99.2%
+Max accuracy: 99.22%
+
+[Thu Apr 22 18:53:12 2021] Epoch: 143, Averaged stats: wRA0: 0.3599 (0.3525)  wRA20: 0.4032 (0.3401)  wRA_20: 0.2361 (0.3074)
+* Acc@1 99.241 Acc@2 99.753 loss 0.151
+Accuracy of the network on the test images: 99.2%
+Max accuracy: 99.24%
+
+[Thu Apr 22 19:10:12 2021] Epoch: 144, Averaged stats: wRA0: 0.3576 (0.3538)  wRA20: 0.4030 (0.3402)  wRA_20: 0.2373 (0.3060)
+* Acc@1 99.241 Acc@2 99.734 loss 0.151
+Accuracy of the network on the test images: 99.2%
+Max accuracy: 99.24%
+
+[Thu Apr 22 19:26:00 2021] Epoch: 145, Averaged stats: wRA0: 0.3574 (0.3540)  wRA20: 0.4043 (0.3395)  wRA_20: 0.2380 (0.3066)
+* Acc@1 99.165 Acc@2 99.772 loss 0.1504
+Accuracy of the network on the test images: 99.2%
+Max accuracy: 99.24%
+
+[Thu Apr 22 19:33:39 2021] Epoch: 146, Averaged stats: wRA0: 0.3578 (0.3523)  wRA20: 0.4031 (0.3409)  wRA_20: 0.2380 (0.3068)
+* Acc@1 99.222 Acc@2 99.772 loss 0.1494
+Accuracy of the network on the test images: 99.2%
+Max accuracy: 99.24%
+
+[Thu Apr 22 19:40:16 2021] Epoch: 147, Averaged stats: wRA0: 0.3562 (0.3533)  wRA20: 0.4035 (0.3418)  wRA_20: 0.2374 (0.3049)
+* Acc@1 99.279 Acc@2 99.753 loss 0.1492
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.28%
+
+[Thu Apr 22 19:45:19 2021] Epoch: 148, Averaged stats: wRA0: 0.3579 (0.3536)  wRA20: 0.4042 (0.3396)  wRA_20: 0.2379 (0.3068)
+* Acc@1 99.127 Acc@2 99.772 loss 0.1486
+Accuracy of the network on the test images: 99.1%
+Max accuracy: 99.28%
+
+[Thu Apr 22 19:55:52 2021] Epoch: 149, Averaged stats: wRA0: 0.3588 (0.3521)  wRA20: 0.4011 (0.3431)  wRA_20: 0.2365 (0.3048)
+* Acc@1 99.241 Acc@2 99.772 loss 0.1496
+Accuracy of the network on the test images: 99.2%
+Max accuracy: 99.28%
+
+[Thu Apr 22 20:01:20 2021] Epoch: 150, Averaged stats: wRA0: 0.3581 (0.3544)  wRA20: 0.4060 (0.3416)  wRA_20: 0.2348 (0.3040)
+* Acc@1 99.298 Acc@2 99.791 loss 0.15
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.30%
+
+[Thu Apr 22 20:07:29 2021] Epoch: 151, Averaged stats: wRA0: 0.3556 (0.3530)  wRA20: 0.4060 (0.3419)  wRA_20: 0.2369 (0.3050)
+* Acc@1 99.298 Acc@2 99.772 loss 0.151
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.30%
+
+[Thu Apr 22 20:12:36 2021] Epoch: 152, Averaged stats: wRA0: 0.3587 (0.3524)  wRA20: 0.4051 (0.3439)  wRA_20: 0.2373 (0.3036)
+* Acc@1 99.317 Acc@2 99.753 loss 0.1508
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.32%
+
+[Thu Apr 22 20:19:35 2021] Epoch: 153, Averaged stats: wRA0: 0.3581 (0.3517)  wRA20: 0.4029 (0.3420)  wRA_20: 0.2365 (0.3063)
+* Acc@1 99.222 Acc@2 99.753 loss 0.1496
+Accuracy of the network on the test images: 99.2%
+Max accuracy: 99.32%
+
+[Thu Apr 22 20:25:32 2021] Epoch: 154, Averaged stats: wRA0: 0.3577 (0.3527)  wRA20: 0.4054 (0.3423)  wRA_20: 0.2377 (0.3050)
+* Acc@1 99.298 Acc@2 99.772 loss 0.149
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.32%
+
+[Thu Apr 22 20:30:37 2021] Epoch: 155, Averaged stats: wRA0: 0.3552 (0.3528)  wRA20: 0.4068 (0.3427)  wRA_20: 0.2379 (0.3045)
+* Acc@1 99.355 Acc@2 99.772 loss 0.1496
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.35%
+
+[Thu Apr 22 20:35:54 2021] Epoch: 156, Averaged stats: wRA0: 0.3571 (0.3508)  wRA20: 0.4070 (0.3444)  wRA_20: 0.2360 (0.3049)
+* Acc@1 99.336 Acc@2 99.791 loss 0.1498
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.35%
+
+[Thu Apr 22 20:40:14 2021] Epoch: 157, Averaged stats: wRA0: 0.3575 (0.3501)  wRA20: 0.4067 (0.3441)  wRA_20: 0.2349 (0.3058)
+* Acc@1 99.279 Acc@2 99.772 loss 0.1508
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.35%
+
+[Thu Apr 22 20:44:06 2021] Epoch: 158, Averaged stats: wRA0: 0.3585 (0.3504)  wRA20: 0.4041 (0.3435)  wRA_20: 0.2392 (0.3060)
+* Acc@1 99.298 Acc@2 99.753 loss 0.1514
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.35%
+
+[Thu Apr 22 20:48:10 2021] Epoch: 159, Averaged stats: wRA0: 0.3572 (0.3514)  wRA20: 0.4025 (0.3462)  wRA_20: 0.2358 (0.3023)
+* Acc@1 99.241 Acc@2 99.791 loss 0.1508
+Accuracy of the network on the test images: 99.2%
+Max accuracy: 99.35%
+
+[Thu Apr 22 20:51:48 2021] Epoch: 160, Averaged stats: wRA0: 0.3575 (0.3501)  wRA20: 0.4055 (0.3440)  wRA_20: 0.2364 (0.3059)
+* Acc@1 99.374 Acc@2 99.791 loss 0.1508
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.37%
+
+[Thu Apr 22 20:55:25 2021] Epoch: 161, Averaged stats: wRA0: 0.3590 (0.3494)  wRA20: 0.4047 (0.3450)  wRA_20: 0.2352 (0.3056)
+* Acc@1 99.355 Acc@2 99.772 loss 0.1502
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.37%
+
+[Thu Apr 22 20:59:10 2021] Epoch: 162, Averaged stats: wRA0: 0.3574 (0.3520)  wRA20: 0.4068 (0.3446)  wRA_20: 0.2359 (0.3034)
+* Acc@1 99.336 Acc@2 99.791 loss 0.1504
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.37%
+
+[Thu Apr 22 21:04:01 2021] Epoch: 163, Averaged stats: wRA0: 0.3574 (0.3502)  wRA20: 0.4064 (0.3465)  wRA_20: 0.2338 (0.3033)
+* Acc@1 99.355 Acc@2 99.791 loss 0.1508
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.37%
+
+[Thu Apr 22 21:09:14 2021] Epoch: 164, Averaged stats: wRA0: 0.3571 (0.3512)  wRA20: 0.4083 (0.3450)  wRA_20: 0.2362 (0.3038)
+* Acc@1 99.279 Acc@2 99.791 loss 0.1504
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.37%
+
+[Thu Apr 22 21:13:44 2021] Epoch: 165, Averaged stats: wRA0: 0.3581 (0.3518)  wRA20: 0.4060 (0.3439)  wRA_20: 0.2362 (0.3042)
+* Acc@1 99.336 Acc@2 99.810 loss 0.1496
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.37%
+
+[Thu Apr 22 21:17:40 2021] Epoch: 166, Averaged stats: wRA0: 0.3566 (0.3503)  wRA20: 0.4037 (0.3437)  wRA_20: 0.2360 (0.3059)
+* Acc@1 99.374 Acc@2 99.791 loss 0.149
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.37%
+
+[Thu Apr 22 21:21:57 2021] Epoch: 167, Averaged stats: wRA0: 0.3587 (0.3502)  wRA20: 0.4061 (0.3451)  wRA_20: 0.2342 (0.3048)
+* Acc@1 99.393 Acc@2 99.791 loss 0.1486
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.39%
+
+[Thu Apr 22 21:26:53 2021] Epoch: 168, Averaged stats: wRA0: 0.3570 (0.3509)  wRA20: 0.4052 (0.3456)  wRA_20: 0.2373 (0.3034)
+* Acc@1 99.355 Acc@2 99.791 loss 0.1484
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.39%
+
+[Thu Apr 22 21:31:56 2021] Epoch: 169, Averaged stats: wRA0: 0.3573 (0.3503)  wRA20: 0.4068 (0.3458)  wRA_20: 0.2348 (0.3039)
+* Acc@1 99.336 Acc@2 99.791 loss 0.1492
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.39%
+
+[Thu Apr 22 21:37:18 2021] Epoch: 170, Averaged stats: wRA0: 0.3570 (0.3498)  wRA20: 0.4058 (0.3461)  wRA_20: 0.2351 (0.3042)
+* Acc@1 99.317 Acc@2 99.810 loss 0.1492
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.39%
+
+[Thu Apr 22 21:42:49 2021] Epoch: 171, Averaged stats: wRA0: 0.3596 (0.3507)  wRA20: 0.4037 (0.3458)  wRA_20: 0.2353 (0.3035)
+* Acc@1 99.317 Acc@2 99.810 loss 0.1496
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.39%
+
+[Thu Apr 22 21:48:41 2021] Epoch: 172, Averaged stats: wRA0: 0.3567 (0.3511)  wRA20: 0.4063 (0.3466)  wRA_20: 0.2354 (0.3022)
+* Acc@1 99.298 Acc@2 99.810 loss 0.1494
+Accuracy of the network on the test images: 99.3%
+Max accuracy: 99.39%
+
+[Thu Apr 22 21:54:02 2021] Epoch: 173, Averaged stats: wRA0: 0.3586 (0.3514)  wRA20: 0.4053 (0.3467)  wRA_20: 0.2354 (0.3019)
+* Acc@1 99.468 Acc@2 99.810 loss 0.15
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.47%
+
+[Thu Apr 22 21:59:30 2021] Epoch: 174, Averaged stats: wRA0: 0.3589 (0.3497)  wRA20: 0.4047 (0.3470)  wRA_20: 0.2362 (0.3033)
+* Acc@1 99.431 Acc@2 99.848 loss 0.1506
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.47%
+
+[Thu Apr 22 22:04:17 2021] Epoch: 175, Averaged stats: wRA0: 0.3577 (0.3522)  wRA20: 0.4047 (0.3470)  wRA_20: 0.2358 (0.3008)
+* Acc@1 99.412 Acc@2 99.810 loss 0.1508
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.47%
+
+[Thu Apr 22 22:08:21 2021] Epoch: 176, Averaged stats: wRA0: 0.3591 (0.3506)  wRA20: 0.4036 (0.3453)  wRA_20: 0.2331 (0.3041)
+* Acc@1 99.412 Acc@2 99.829 loss 0.1508
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.47%
+
+[Thu Apr 22 22:12:18 2021] Epoch: 177, Averaged stats: wRA0: 0.3574 (0.3504)  wRA20: 0.4077 (0.3454)  wRA_20: 0.2339 (0.3042)
+* Acc@1 99.355 Acc@2 99.810 loss 0.1508
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.47%
+
+[Thu Apr 22 22:16:00 2021] Epoch: 178, Averaged stats: wRA0: 0.3567 (0.3515)  wRA20: 0.4067 (0.3461)  wRA_20: 0.2365 (0.3023)
+* Acc@1 99.355 Acc@2 99.829 loss 0.1512
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.47%
+
+[Thu Apr 22 22:20:23 2021] Epoch: 179, Averaged stats: wRA0: 0.3591 (0.3499)  wRA20: 0.4042 (0.3465)  wRA_20: 0.2330 (0.3036)
+* Acc@1 99.468 Acc@2 99.848 loss 0.1506
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.47%
+
+[Thu Apr 22 22:24:39 2021] Epoch: 180, Averaged stats: wRA0: 0.3578 (0.3490)  wRA20: 0.4051 (0.3467)  wRA_20: 0.2355 (0.3043)
+* Acc@1 99.468 Acc@2 99.867 loss 0.1508
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.47%
+
+[Thu Apr 22 22:28:41 2021] Epoch: 181, Averaged stats: wRA0: 0.3585 (0.3510)  wRA20: 0.4057 (0.3481)  wRA_20: 0.2344 (0.3009)
+* Acc@1 99.468 Acc@2 99.848 loss 0.1508
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.47%
+
+[Thu Apr 22 22:32:55 2021] Epoch: 182, Averaged stats: wRA0: 0.3581 (0.3497)  wRA20: 0.4042 (0.3467)  wRA_20: 0.2341 (0.3036)
+* Acc@1 99.468 Acc@2 99.829 loss 0.1512
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.47%
+
+[Thu Apr 22 22:36:50 2021] Epoch: 183, Averaged stats: wRA0: 0.3581 (0.3506)  wRA20: 0.4042 (0.3467)  wRA_20: 0.2366 (0.3027)
+* Acc@1 99.487 Acc@2 99.848 loss 0.1508
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.49%
+
+[Thu Apr 22 22:40:39 2021] Epoch: 184, Averaged stats: wRA0: 0.3583 (0.3497)  wRA20: 0.4057 (0.3469)  wRA_20: 0.2348 (0.3034)
+* Acc@1 99.487 Acc@2 99.867 loss 0.152
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.49%
+
+[Thu Apr 22 22:45:16 2021] Epoch: 185, Averaged stats: wRA0: 0.3583 (0.3486)  wRA20: 0.4061 (0.3477)  wRA_20: 0.2344 (0.3037)
+* Acc@1 99.487 Acc@2 99.848 loss 0.1522
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.49%
+
+[Thu Apr 22 22:49:45 2021] Epoch: 186, Averaged stats: wRA0: 0.3578 (0.3499)  wRA20: 0.4044 (0.3468)  wRA_20: 0.2355 (0.3033)
+* Acc@1 99.468 Acc@2 99.867 loss 0.153
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.49%
+
+[Thu Apr 22 22:53:51 2021] Epoch: 187, Averaged stats: wRA0: 0.3577 (0.3498)  wRA20: 0.4069 (0.3482)  wRA_20: 0.2344 (0.3020)
+* Acc@1 99.450 Acc@2 99.848 loss 0.1522
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.49%
+
+[Thu Apr 22 22:59:05 2021] Epoch: 188, Averaged stats: wRA0: 0.3576 (0.3494)  wRA20: 0.4071 (0.3476)  wRA_20: 0.2352 (0.3030)
+* Acc@1 99.487 Acc@2 99.829 loss 0.1518
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.49%
+
+[Thu Apr 22 23:04:08 2021] Epoch: 189, Averaged stats: wRA0: 0.3578 (0.3489)  wRA20: 0.4053 (0.3481)  wRA_20: 0.2353 (0.3030)
+* Acc@1 99.487 Acc@2 99.867 loss 0.151
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.49%
+
+[Thu Apr 22 23:09:16 2021] Epoch: 190, Averaged stats: wRA0: 0.3573 (0.3507)  wRA20: 0.4056 (0.3473)  wRA_20: 0.2376 (0.3020)
+* Acc@1 99.487 Acc@2 99.867 loss 0.1512
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.49%
+
+[Thu Apr 22 23:14:32 2021] Epoch: 191, Averaged stats: wRA0: 0.3570 (0.3506)  wRA20: 0.4062 (0.3480)  wRA_20: 0.2345 (0.3014)
+* Acc@1 99.450 Acc@2 99.867 loss 0.1518
+Accuracy of the network on the test images: 99.4%
+Max accuracy: 99.49%
+
+[Thu Apr 22 23:19:12 2021] Epoch: 192, Averaged stats: wRA0: 0.3586 (0.3511)  wRA20: 0.4030 (0.3473)  wRA_20: 0.2345 (0.3017)
+* Acc@1 99.506 Acc@2 99.867 loss 0.1522
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.51%
+
+[Thu Apr 22 23:24:00 2021] Epoch: 193, Averaged stats: wRA0: 0.3580 (0.3521)  wRA20: 0.4046 (0.3474)  wRA_20: 0.2358 (0.3005)
+* Acc@1 99.487 Acc@2 99.848 loss 0.1524
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.51%
+
+[Thu Apr 22 23:29:03 2021] Epoch: 194, Averaged stats: wRA0: 0.3590 (0.3499)  wRA20: 0.4057 (0.3493)  wRA_20: 0.2350 (0.3008)
+* Acc@1 99.468 Acc@2 99.867 loss 0.152
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.51%
+
+[Thu Apr 22 23:33:12 2021] Epoch: 195, Averaged stats: wRA0: 0.3580 (0.3492)  wRA20: 0.4048 (0.3483)  wRA_20: 0.2347 (0.3025)
+* Acc@1 99.468 Acc@2 99.886 loss 0.1512
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.51%
+
+[Thu Apr 22 23:38:26 2021] Epoch: 196, Averaged stats: wRA0: 0.3568 (0.3508)  wRA20: 0.4069 (0.3483)  wRA_20: 0.2345 (0.3009)
+* Acc@1 99.487 Acc@2 99.886 loss 0.1514
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.51%
+
+[Thu Apr 22 23:43:14 2021] Epoch: 197, Averaged stats: wRA0: 0.3577 (0.3505)  wRA20: 0.4050 (0.3486)  wRA_20: 0.2353 (0.3009)
+* Acc@1 99.487 Acc@2 99.886 loss 0.1518
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.51%
+
+[Thu Apr 22 23:47:50 2021] Epoch: 198, Averaged stats: wRA0: 0.3584 (0.3508)  wRA20: 0.4071 (0.3479)  wRA_20: 0.2354 (0.3013)
+* Acc@1 99.487 Acc@2 99.886 loss 0.1522
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.51%
+
+[Thu Apr 22 23:52:14 2021] Epoch: 199, Averaged stats: wRA0: 0.3574 (0.3502)  wRA20: 0.4040 (0.3478)  wRA_20: 0.2353 (0.3020)
+* Acc@1 99.487 Acc@2 99.886 loss 0.153
+Accuracy of the network on the test images: 99.5%
+Max accuracy: 99.51%
+
+=======>>> Experiment completed for MiT_small_patch16_224 <<<=======
+
