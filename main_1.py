@@ -174,7 +174,7 @@ def get_args_parser(model_num, model_name):
     opt = parser.parse_args()
     opt.output_dir = r"./results/out_" + str(model_name)
 
-    opt.data_path_base = "/path/to/dataset"
+    opt.data_path_base = "/path/to/dataset/"
 
     port = find_free_port()
     opt.dist_url = "tcp://localhost:{}".format(port)
