@@ -11,7 +11,7 @@ Note: The research paper based on this repo has been accepted in IEEE Signal Pro
 # MiT's Citation Information
 If you use MiT in your research or wish to refer to the results published in the paper, please use the following BibTeX entry:
 
-```
+```ruby
 @ARTICLE{9534485,  
 author={Behzad, Muzammil and Li, Xiaobai and Zhao, Guoying},  
 journal={IEEE Signal Processing Letters},   
