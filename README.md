@@ -10,4 +10,7 @@ Note: The research paper based on this repo has been accepted in IEEE Signal Pro
 
 # MiT's Citation Information
 If you use MiT in your research or wish to refer to the results published in the paper, please use the following BibTeX entry:
-```@ARTICLE{9534485,  author={Behzad, Muzammil and Li, Xiaobai and Zhao, Guoying},  journal={IEEE Signal Processing Letters},   title={Disentangling 3D/4D Facial Affect Recognition with Faster Multi-view Transformer},   year={2021},  volume={},  number={},  pages={1-1},  doi={10.1109/LSP.2021.3111576}}```
+
+```ruby
+@ARTICLE{9534485,  author={Behzad, Muzammil and Li, Xiaobai and Zhao, Guoying},  journal={IEEE Signal Processing Letters},   title={Disentangling 3D/4D Facial Affect Recognition with Faster Multi-view Transformer},   year={2021},  volume={},  number={},  pages={1-1},  doi={10.1109/LSP.2021.3111576}}
+```
